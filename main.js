@@ -5,15 +5,15 @@
 // Массив текущих задач
 let currentTaskArray = [
   {
-    title: "Купить новый телефон",
+    title: "Buy Ice Cream",
     type: "average"
   },
   {
-    title: "Освоить Javascript",
+    title: "Learn Javascript",
     type: "important"
   },
   {
-    title: "Погладить одежду",
+    title: "Feed my cat",
     type: "simple"
   },
 ]
